@@ -20,9 +20,9 @@ console.log(real_another_array);
 
 
 
-console.log(Array.isArray("Hitesh"))
-console.log(Array.from("Hitesh"))
-console.log(Array.from({name: "hitesh"})) // interesting
+console.log(Array.isArray("Aniket"))
+console.log(Array.from("Aniket"))
+console.log(Array.from({name: "aniket"})) // interesting
 
 let score1 = 100
 let score2 = 200
