@@ -8,7 +8,7 @@ function sayMyName(){
     console.log("T");
 }
 
-// sayMyName()
+ sayMyName()
 
 // function addTwoNumbers(number1, number2){
 
@@ -46,7 +46,7 @@ function calculateCartPrice(val1, val2, ...num1){
 // console.log(calculateCartPrice(200, 400, 500, 2000))
 
 const user = {
-    username: "hitesh",
+    username: "aniket",
     prices: 199
 }
 
