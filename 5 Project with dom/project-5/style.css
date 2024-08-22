@@ -16,9 +16,10 @@ html, body {
 }
 #card{
     height: 480px;
-    width: 330px;
+    width: 300px;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 15px;
+    overflow: hidden;
     border: 3px solid black;
     position: relative;
 }
@@ -36,7 +37,7 @@ html, body {
     
 }
 .story{
-    border: 3px solid red;
+    border: 3px solid rgb(216, 134, 39);
     height: 90px;
     border-radius: 50%;
     width: 90px;
