@@ -15,7 +15,7 @@
 
   useEffect(() => {
     const controller = new AbortController()
-    ;(async () => {
+    ;g(async () => {
       try {
         setError(false)
         const response = await axios.get('/api/products?search=' + search, {
